@@ -1,9 +1,9 @@
 const config = {
   development: {
-    backendUrl: "http://localhost:8080/api/v1/dalle",
+    backendUrl: "https://debayan-dress-designer-ai.onrender.com/api/v1/dalle",
   },
   production: {
-    backendUrl: "http://localhost:8080/api/v1/dalle",
+    backendUrl: "https://debayan-dress-designer-ai.onrender.com/api/v1/dalle",
   },
 };
 
